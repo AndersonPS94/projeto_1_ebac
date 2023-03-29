@@ -12,7 +12,7 @@ body {
     background-image: url("imagens/RE4RBG.png");
     background-repeat: no-repeat, repeat-x;
     background-position:center;
-    background-size: 100%;
+    background-size: cover;
     
 }
 h1 > img {
