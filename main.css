@@ -189,10 +189,15 @@ p {
   @media only screen and (max-width: 767px) {
     .container {
       width: 90%;
+      
+    
+  }
+  body {
     background-image: url(./imagens/RE4RBGM.png);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
+    width: auto;
   }
 }
   
@@ -201,11 +206,13 @@ p {
     .container {
       width: 100%;
       padding: 0 20px;
-      background-image: url(./imagens/RE4RBGM.png);
+    }
+    body {
+        background-image: url(./imagens/RE4RBGM.png);
       background-repeat: no-repeat;
       background-position:center;
       background-size: cover;
-
+      width: auto;
     }
   }
   
